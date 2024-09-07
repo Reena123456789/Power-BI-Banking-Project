@@ -1,2 +1,2 @@
 # Power-BI-Banking-Project
-The end-to-end Dashboard using Power BI
+https://app.powerbi.com/view?r=eyJrIjoiZjg2NzhmM2ItM2ZiNC00MDhjLTljMWUtYjgxNTRiMWNiYTA1IiwidCI6ImQ2NjdhMzI5LWJjMzktNDU0ZS1iNmIzLTdjMmZlMjExZDFiNiJ9
